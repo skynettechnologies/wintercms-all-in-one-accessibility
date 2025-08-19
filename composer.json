@@ -1,0 +1,23 @@
+{
+    "name": "skynettechnologies/allinoneaccessibility",
+    "type": "allinoneaccessibility-plugin",
+    "description": "allinoneaccessibility",
+    "keywords": ["winter", "cms", "allinoneaccessibility", "plugin"],
+    "license": "",
+    "authors": [
+        {
+            "name": "Skynet Technologies USA LLC",
+            "email": "hello@skynettechnologies.com",
+            "role": "Founder"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "composer/installers": "~1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Skynettechnologies\\Allinoneaccessibility\\": ""
+        }
+    }
+}
