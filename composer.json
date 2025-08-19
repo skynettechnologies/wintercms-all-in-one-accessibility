@@ -3,7 +3,7 @@
     "type": "allinoneaccessibility-plugin",
     "description": "allinoneaccessibility",
     "keywords": ["winter", "cms", "allinoneaccessibility", "plugin"],
-    "license": "",
+    "license": "MIT",
     "authors": [
         {
             "name": "Skynet Technologies USA LLC",
